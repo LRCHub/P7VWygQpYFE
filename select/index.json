@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ALBA",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-25T09:07:06.220685Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "Eugenio Finardi",
+      "has_synced": false,
+      "path": "select/01_Alba_Eugenio_Finardi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alba a quattro corsie",
+      "artist": "Subsonica",
+      "has_synced": true,
+      "path": "select/02_Alba_a_quattro_corsie_Subsonica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alba e tempesta",
+      "artist": "Litfiba",
+      "has_synced": true,
+      "path": "select/03_Alba_e_tempesta_Litfiba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "Ultimo",
+      "has_synced": true,
+      "path": "select/04_Alba_Ultimo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "Ultimo",
+      "has_synced": true,
+      "path": "select/05_Alba_Ultimo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/06_Alba_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ALBA",
+      "artist": "Against All Authority",
+      "has_synced": false,
+      "path": "select/07_ALBA_Against_All_Authority.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "Faun",
+      "has_synced": false,
+      "path": "select/08_Alba_Faun.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When We Come Alive (feat. ALBA) [Mixed]",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/09_When_We_Come_Alive_(feat._ALBA)_[Mixed]_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alba",
+      "artist": "León Larregui",
+      "has_synced": true,
+      "path": "select/10_Alba_León_Larregui.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Luz del Alba",
+      "artist": "Triangulo de Amor Bizarro",
+      "has_synced": true,
+      "path": "select/11_Luz_del_Alba_Triangulo_de_Amor_Bizarro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alba II",
+      "artist": "Faun",
+      "has_synced": true,
+      "path": "select/12_Alba_II_Faun.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Al Alba",
+      "artist": "Luis Eduardo Aute",
+      "has_synced": true,
+      "path": "select/13_Al_Alba_Luis_Eduardo_Aute.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Al alba",
+      "artist": "Silvio Rodríguez & Luis Eduardo Aute",
+      "has_synced": true,
+      "path": "select/14_Al_alba_Silvio_Rodríguez_&_Luis_Eduardo_Aute.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALBA",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_ALBA_ELFENSJóN.txt"
+    }
+  ]
+}
